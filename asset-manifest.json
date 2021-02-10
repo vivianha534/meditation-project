@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/meditation-project/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/meditation-project/static/js/main.57312f7b.chunk.js",
+    "main.js.map": "/meditation-project/static/js/main.57312f7b.chunk.js.map",
+    "runtime-main.js": "/meditation-project/static/js/runtime-main.3a742958.js",
+    "runtime-main.js.map": "/meditation-project/static/js/runtime-main.3a742958.js.map",
+    "static/js/2.76495388.chunk.js": "/meditation-project/static/js/2.76495388.chunk.js",
+    "static/js/2.76495388.chunk.js.map": "/meditation-project/static/js/2.76495388.chunk.js.map",
+    "static/js/3.ee3a74c2.chunk.js": "/meditation-project/static/js/3.ee3a74c2.chunk.js",
+    "static/js/3.ee3a74c2.chunk.js.map": "/meditation-project/static/js/3.ee3a74c2.chunk.js.map",
+    "index.html": "/meditation-project/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/meditation-project/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.76495388.chunk.js.LICENSE.txt": "/meditation-project/static/js/2.76495388.chunk.js.LICENSE.txt",
+    "static/media/meditation.1a37c12d.jpeg": "/meditation-project/static/media/meditation.1a37c12d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a742958.js",
+    "static/js/2.76495388.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.57312f7b.chunk.js"
+  ]
+}
