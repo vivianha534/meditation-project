@@ -33,8 +33,7 @@ const useStyles = makeStyles((theme) =>
             height: "40vh",
             justifyContent: "space-between",
             marginTop: "35vh",
-            marginLeft: "22vw",
-            marginRight: "2vw",
+            marginLeft: "30vw",
         },
         meditationPlayer:{
             height: "100vh",
