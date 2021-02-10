@@ -1,25 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react"
+import {useMediaQuery} from "@material-ui/core"
+import MeditationScreen from "./container/MeditationScreen"
+import TurnScreen from "./container/TurnScreen"
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+  const desktopView = useMediaQuery("(min-width:600px)");
+
+  if(!desktopView){
+    return (
+      <div>
+        <TurnScreen/>
+      </div>
+    );
+  }else{
+    return <MeditationScreen/>
+  }
 }
 
 export default App;
